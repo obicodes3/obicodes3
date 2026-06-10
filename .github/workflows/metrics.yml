@@ -10,6 +10,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Konfigurasi untuk menampilkan repositori privat
-          user: username-anda
+          user: obicodes3
           template: classic
           base: header, activity, community, repositories
