@@ -1,1 +1,1 @@
-![GitHub Metrics](github-metrics.svg)
+![Me](giphy.webp)
